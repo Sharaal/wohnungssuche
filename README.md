@@ -1,5 +1,7 @@
 # Wohnungssuche
 
+[ImmobilienScout24 Suchanfrage](https://www.immobilienscout24.de/Suche/radius/wohnung-mit-garage-kaufen?centerofsearchaddress=Esthal%3B67472%3B%3B%3B%3B%3B&rented=false&price=-350000.0&livingspace=60.0-120.0&energyefficiencyclasses=a%2Cb%2Cc%2Cd%2Ca_plus&exclusioncriteria=foreclosure%2Cprojectlisting%2Copenforoffers&minimuminternetspeed=100000&geocoordinates=49.37739%3B7.98575%3B50.0&sorting=2&enteredFrom=result_list)
+
 ## Übersucht
 
 | Status              | Stadt       | Zimmer | Größe qm | Preis € | Link                                              | Details                                   |
