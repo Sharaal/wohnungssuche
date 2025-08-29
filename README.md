@@ -11,7 +11,7 @@
 | Warten              | Wörrstadt   | 3      | 80       | 230.000 | https://www.immobilienscout24.de/expose/160497887 | [Link](./Details/3-Woerrstadt/README.md)  |
 | Warten              | Frankenthal | 2      | 68       | 167.000 | https://www.immobilienscout24.de/expose/159605423 | [Link](./Details/4-Frankenthal/README.md) |
 | Warten (Reserviert) | Homburg     | 3      | 85       | 178.000 | https://www.immobilienscout24.de/expose/160209297 | [Link](./Details/5-Homburg/README.md)     |
-| Warten              | Homburg     | 3      | 94       | 210.000 | https://www.immobilienscout24.de/expose/159335823 | [Link](./Details/6-Homburg/README.md)     |
+| Besichtigung        | Homburg     | 3      | 94       | 210.000 | https://www.immobilienscout24.de/expose/159335823 | [Link](./Details/6-Homburg/README.md)     |
 
 
 ## Anfrage
